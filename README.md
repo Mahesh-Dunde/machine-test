@@ -26,7 +26,7 @@ This project is a Java Spring Boot application implementing **Category and Produ
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/yourusername/machinetest.git
+ git clone https://github.com/Mahesh-Dunde/machine-test
  cd machinetest
 ```
 
@@ -89,7 +89,7 @@ The application will start on **http://localhost:8080**.
 
 ---
 ## 📌 Submission Details
-- **GitHub Repository:** [Insert Link Here]
+- **GitHub Repository:** [https://github.com/Mahesh-Dunde/machine-test]
 - **How I ran the code?** Using `mvn spring-boot:run`
 - **How I ran the machine test?** Using Postman API testing
 - **DB Design:** MySQL, with `Category` and `Product` tables (one-to-many relationship)
